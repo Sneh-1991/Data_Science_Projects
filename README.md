@@ -1,2 +1,5 @@
 # Data_Science_Projects
-This repository contains projects and codes which can help to the beginner of data science.
+Basic project and code for data science beginners.
+
+# What is used to make it ?
+It is devloped in jupyter notebook with python 3.
